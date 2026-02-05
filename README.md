@@ -15,4 +15,3 @@ Crop Disease Prediction system using Deep Learning with MobileNetV2 achieving 90
 - MobileNetV2  
 - Streamlit
 
-- 
